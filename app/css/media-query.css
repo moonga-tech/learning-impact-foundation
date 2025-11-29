@@ -1,0 +1,17 @@
+@media screen and (max-width: 1278px) {
+    .window-view {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .mission-vision, .our-mission {
+        flex-wrap: wrap;
+    }
+    .mission-vision .image-div {
+        margin-top: 10px;
+    }
+    .mission-vision .image-div .image {
+        width: 20em;
+    }
+}
