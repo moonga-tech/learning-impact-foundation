@@ -48,7 +48,7 @@ export default function Index() {
                         <span className="text-white drop-shadow-lg">Welcome to Learning Impact Foundation</span>
                     </h1>
                     <h2 className="text-2xl md:text-3xl font-semibold text-orange-400 mb-8">
-                        <TypingAnimation duration={80} words={["measuring learning", "igniting progress", "transforming futures"]} loop />
+                        <TypingAnimation duration={80} words={["Measuring Learning", "Igniting Progress", "Transforming Futures"]} loop />
                     </h2>
                     <div className="flex flex-wrap gap-4 justify-center">
                         <Link href="/donate" className="bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-4 px-8 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105">
