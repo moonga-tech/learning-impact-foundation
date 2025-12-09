@@ -62,7 +62,7 @@ export default function Donate() {
                             </div>
                         </div>
 
-                        <div className="bg-white rounded-lg shadow-xl p-8">
+                        {/* <div className="bg-white rounded-lg shadow-xl p-8">
                             <h2 className="text-2xl font-bold mb-6 text-gray-900">Choose Your Impact</h2>
                             <div className="space-y-3 mb-6">
                                 {donationOptions.map((option) => (
@@ -102,7 +102,7 @@ export default function Donate() {
                             <p className="text-sm text-gray-500 text-center mt-4">
                                 All donations are tax-deductible
                             </p>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className="bg-gray-50 rounded-lg p-8">
@@ -111,17 +111,17 @@ export default function Donate() {
                             <div className="text-center">
                                 <div className="text-4xl mb-3">🏦</div>
                                 <h3 className="font-bold text-lg mb-2 text-gray-900">Bank Transfer</h3>
-                                <p className="text-gray-600 text-sm">Contact us for bank details</p>
+                                <h6 className="text-gray-600 text-sm">Contact us for bank details</h6>
                             </div>
                             <div className="text-center">
                                 <div className="text-4xl mb-3">📱</div>
                                 <h3 className="font-bold text-lg mb-2 text-gray-900">Mobile Money</h3>
-                                <p className="text-gray-600 text-sm">+260 97 884 7195</p>
+                                <h6 className="text-gray-600 text-sm">+260 97 884 7195</h6>
                             </div>
                             <div className="text-center">
                                 <div className="text-4xl mb-3">🎁</div>
                                 <h3 className="font-bold text-lg mb-2 text-gray-900">In-Kind Donations</h3>
-                                <p className="text-gray-600 text-sm">Books, supplies, equipment</p>
+                                <h6 className="text-gray-600 text-sm">Books, supplies, equipment</h6>
                             </div>
                         </div>
                     </div>
