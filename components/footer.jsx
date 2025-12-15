@@ -15,7 +15,7 @@ export default function Footer() {
                             Transforming education across Zambia through evidence-based interventions and community partnerships.
                         </p>
                         <div className="flex gap-4">
-                            <a href="#" className="bg-gray-700 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300">
+                            <a href="https://web.facebook.com/profile.php?id=61579829489995" className="bg-gray-700 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300">
                                 <i className="fa-brands fa-facebook-f"></i>
                             </a>
                             <a href="#" className="bg-gray-700 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300">
@@ -94,12 +94,12 @@ export default function Footer() {
                             © 2025 Learning Impact Foundation. All rights reserved.
                         </p>
                         <div className="flex gap-6 text-sm">
-                            <Link href="#" className="text-gray-400 hover:text-orange-400 transition-colors">Privacy Policy</Link>
-                            <Link href="#" className="text-gray-400 hover:text-orange-400 transition-colors">Terms of Service</Link>
+                            <Link href="/privacy-policy" className="text-gray-400 hover:text-orange-400 transition-colors">Privacy Policy</Link>
+                            <Link href="/terms-and-conditions" className="text-gray-400 hover:text-orange-400 transition-colors">Terms of Service</Link>
                             <Link href="/contact-us" className="text-gray-400 hover:text-orange-400 transition-colors">Contact</Link>
                         </div>
                         <p className="text-gray-500 text-xs">
-                            Designed by <span className="text-orange-400 font-semibold">Manongo Tech</span>
+                            Designed by <a href="https://web.facebook.com/profile.php?id=61571456295967" target="_blank" className="text-orange-400 font-semibold">Manongo Tech</a>
                         </p>
                     </div>
                 </div>

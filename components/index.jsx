@@ -154,9 +154,12 @@ export default function Index() {
                         Join us in transforming education across Zambia. Whether you are a donor, partner, teacher, or community member, your support makes a real difference.
                     </p>
                     <div className="flex flex-wrap gap-4 justify-center">
-                        <button onClick={joinUs} className="bg-white text-orange-600 hover:bg-gray-100 font-bold py-4 px-10 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105">
-                            <i className="fa-solid fa-users mr-2"></i>Join Us
-                        </button>
+                        <a href="https://chat.whatsapp.com/Gm3Vqy4wK1VCmgQeQ5Pf8O" target="_blank">
+                            <button className="bg-white text-orange-600 hover:bg-gray-100 font-bold py-4 px-10 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105">
+                                <i className="fa-solid fa-users mr-2"></i>Join Us
+                            </button>
+                        </a>
+                        
                         <Link href="/volunteer" className="bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white font-bold py-4 px-10 rounded-lg border-2 border-white/30 transition-all duration-300">
                             <i className="fa-solid fa-hand-holding-heart mr-2"></i>Volunteer
                         </Link>

@@ -14,6 +14,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-J8J0MJP20T"></script>
+
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="theme-color" content="#0f172a" />
