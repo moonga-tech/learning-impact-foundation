@@ -123,8 +123,8 @@ export default function TermsAndConditions() {
                             </p>
                             <div className="bg-white rounded-lg p-6 shadow-md">
                                 <p className="text-gray-700 mb-2"><strong>Learning Impact Foundation</strong></p>
-                                <p className="text-gray-700 mb-2">Lusaka, Zambia</p>
-                                <p className="text-gray-700 mb-2">Email: <a href="mailto:info@learningimpactfoundation.org" className="text-orange-500 hover:text-orange-600">info@learningimpactfoundation.org</a></p>
+                                <p className="text-gray-700 mb-2">Address: Plot 24 Robert Watyakeni Street, Nyumba, Lusaka, Zambia</p>
+                                <p className="text-gray-700 mb-2">Email: <a href="mailto:info@learninglmpactfoundation.org" className="text-orange-500 hover:text-orange-600">info@learninglmpactfoundation.org</a></p>
                                 <p className="text-gray-700 mb-2">Phone: +260 97 884 7195 | +260 97 889 8985</p>
                             </div>
                         </section>

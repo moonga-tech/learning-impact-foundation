@@ -68,7 +68,7 @@ export default function Footer() {
                         <ul className="space-y-4">
                             <li className="flex items-start">
                                 <i className="fa-solid fa-location-dot text-orange-500 mt-1 mr-3"></i>
-                                <span>Lusaka, Zambia</span>
+                                <span>Address: Plot 24 Robert Watyakeni Street, Nyumba, Lusaka, Zambia</span>
                             </li>
                             <li className="flex items-start">
                                 <i className="fa-solid fa-phone text-orange-500 mt-1 mr-3"></i>
@@ -79,10 +79,10 @@ export default function Footer() {
                             </li>
                             <li className="flex items-start">
                                 <i className="fa-solid fa-envelope text-orange-500 mt-1 mr-3"></i>
-                                <a href="mailto:info@learningimpactfoundation.org" className="hover:text-orange-400 transition-colors break-all">info@learningimpactfoundation.org</a>
+                                <a href="mailto:info@learninglmpactfoundation.org" className="hover:text-orange-400 transition-colors break-all">info@learninglmpactfoundation.org</a>
                             </li>
                         </ul>
-                        <Link href="/donate" className="mt-6 inline-block bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl">
+                        <Link href="/donate" className="mt-6 inline-block bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl mb-2">
                             <i className="fa-solid fa-heart mr-2"></i>Donate Now
                         </Link>
                     </div>
